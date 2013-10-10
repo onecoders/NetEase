@@ -1,0 +1,55 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!--
+        Base application theme, dependent on API level. This theme is replaced
+        by AppBaseTheme from res/values-vXX/styles.xml on newer devices.
+    -->
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+
+    <!-- Application theme. -->
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+    
+    <style name="Themes.Sliders.Actionbar" parent="@style/Theme.Sherlock.Light">
+        <item name="actionBarStyle">@style/Widget.Slider.ActionBar</item>
+    	<item name="actionBarTabStyle">@style/Widget.Slider.ActionBarTab</item> 
+        <item name="actionBarItemBackground">@drawable/selector_actionbar_button</item>
+        <item name="homeAsUpIndicator">@drawable/biz_widget_left</item>
+        <item name="android:actionBarStyle">@style/Widget.Slider.ActionBar</item>
+    	<item name="android:actionBarTabStyle">@style/Widget.Slider.ActionBarTab</item> 
+    	<item name="android:actionBarItemBackground">@drawable/selector_actionbar_button</item>
+        <item name="android:homeAsUpIndicator">@drawable/biz_widget_left</item>
+    </style>
+
+    
+    <style name="Widget.Slider.ActionBar" parent="@style/Widget.Sherlock.ActionBar">  
+        <item name="android:background">@drawable/base_actionbar_bg</item>     
+        <item name="android:backgroundStacked">#ffeeeeee</item>
+        <item name="android:titleTextStyle">@style/TextAppearance.Slider.Widget.ActionBar.Titlen</item>
+        <item name="titleTextStyle">@style/TextAppearance.Slider.Widget.ActionBar.Titlen</item>
+        <item name="background">@drawable/base_actionbar_bg</item>     
+        <item name="backgroundStacked">#ffeeeeee</item>
+    </style>
+    
+     <style name="Widget.Slider.ActionBarTab" parent="@style/Widget.Sherlock.ActionBar.TabView">       
+        <item name="android:background">@drawable/tab_indicator</item>
+    </style>
+
+    <style name="Widget.Slider.ActionButton" parent="@style/Widget.Sherlock.ActionButton">
+        <item name="android:background">@drawable/selector_actionbar_button</item>
+        <item name="background">@drawable/selector_actionbar_button</item>
+    </style>
+    
+   <style name="TextAppearance.Slider.Widget.ActionBar.Titlen" parent="@style/TextAppearance.Sherlock.Widget.ActionBar.Title">
+       <item name="android:textColor">#eeeeee</item>
+       <item name="android:textSize">20sp</item>
+    </style>
+    
+</resources>

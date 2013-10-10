@@ -1,0 +1,7 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+	<!-- icon -->
+	<item android:id="@+id/menu_setting" android:showAsAction="ifRoom"
+		android:title="setting" android:icon="@drawable/menu_icon" />
+
+</menu>

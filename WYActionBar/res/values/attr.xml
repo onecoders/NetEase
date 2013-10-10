@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sections">
+        <item>热点图集</item>
+        <item>独家图集</item>
+        <item>明星图集</item>
+        <item>体坛图集</item>
+        <item>精美图集</item>
+    </string-array>
+</resources>
