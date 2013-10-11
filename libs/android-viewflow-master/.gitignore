@@ -1,0 +1,7 @@
+bin/
+.settings
+bin
+gen
+target
+local.properties
+proguard.cfg
