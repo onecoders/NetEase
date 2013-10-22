@@ -6,3 +6,4 @@
 TODO:
 1.share with Weibo and wechat.
 2.how to start new activity of the detail.
+3.source code of viewpagerindicator
