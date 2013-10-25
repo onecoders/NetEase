@@ -1,0 +1,50 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="fill_parent"
+	android:layout_height="wrap_content"
+	android:orientation="horizontal"
+	android:padding="4px"
+	>
+	<ImageView android:id="@+id/avatar"
+		android:layout_width="48px"
+		android:layout_height="48px"
+	/>
+	<LinearLayout
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+		android:orientation="vertical"
+		android:paddingLeft="2px"
+		>
+		<LinearLayout
+			android:layout_width="fill_parent"
+			android:layout_height="wrap_content"
+			android:orientation="horizontal"
+			android:layout_weight="1"
+			android:gravity="center_vertical"
+			>
+			<TextView android:id="@+id/friend"
+				android:layout_width="0px"
+				android:layout_height="wrap_content"
+				android:layout_weight="1"
+				android:gravity="left"
+				android:textStyle="bold"
+				android:singleLine="true"
+				android:ellipsize="end"
+			/>
+			<TextView android:id="@+id/created_at"
+				android:layout_width="0px"
+				android:layout_height="wrap_content"
+				android:layout_weight="1"
+				android:gravity="right"
+				android:singleLine="true"
+				android:ellipsize="end"
+			/>
+		</LinearLayout>
+		<TextView android:id="@+id/status"
+			android:layout_width="fill_parent"
+			android:layout_height="wrap_content"
+			android:layout_weight="1"
+			android:gravity="center_vertical"
+			android:singleLine="false"
+		/>
+	</LinearLayout>
+</LinearLayout>

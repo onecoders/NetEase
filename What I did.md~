@@ -6,7 +6,7 @@
 TODO:
 1.share with Weibo and wechat.
 2.how to start new activity of the detail.
-3.source code of viewpagerindicator
+3.source code of viewpagerindicator.
 
 10/23
 1.Sina Share SDK
@@ -14,6 +14,33 @@ TODO:
 3.Slidingmenu setBehindScrollScale(0.0f);
 4.ViewpagerIndicator: in style,its background setting,no tab hairline style
 5.icon page indicator clear
+6.I found the Share SDK,a very good share tools.
+
+TODO:
+1.Get into the Share SDK
+2.AsyncHttpClient
+3.20 cache news like netease
+
+10/24
+1.listview style
+2.ShareSDK
+3.how to cache
+4.Optimized HttpClient
+5.how to change the tab text color when corresponding tab is selected.
+
+TODO:
+1.bug:pull and release cause a crash
+2.release text could be changed when pull longer
+3.should remember the current fragment in viewpager,but not still not fixed
+
+10/25
+1.Today,I learn something about AsyncHttpClient
+2.I found a website, on which the articles are very good.The address are following:
+www.tuicool.com
+and
+www.learn2crack.com
+3.I understood how the JSON works
+4.json parsing url in android
 
 TODO:
 1.
