@@ -43,4 +43,15 @@ www.learn2crack.com
 4.json parsing url in android
 
 TODO:
+1.xml Serializable
+
+10/28
+1.how to xml serialize and deserialize
+2.rebound effect and listview effect
+
+TODO:
+1.images load from url
+2.how asyncHttpClient works
+
+10/29
 1.
