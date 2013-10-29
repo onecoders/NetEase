@@ -54,4 +54,9 @@ TODO:
 2.how asyncHttpClient works
 
 10/29
+1.First,I review the Android Test on developer.android.com
+2.Second,I learned how to integrate with barcode scanner.
+3.
+
+TODO:
 1.
