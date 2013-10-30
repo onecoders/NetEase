@@ -59,4 +59,9 @@ TODO:
 3.
 
 TODO:
-1.
+1.goagent
+2.weather report app using httpclient and json
+
+10/30
+1.First,I must read how to connect with vpn using goagent
+2.weather report app
