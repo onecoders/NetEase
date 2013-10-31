@@ -65,3 +65,17 @@ TODO:
 10/30
 1.First,I must read how to connect with vpn using goagent
 2.weather report app
+3.jackson learnning
+
+TODO:
+1.learn more about jackson
+2.do the specific app as the ios app given
+
+10/31
+1.deeply learnning jackson
+2.analysis the ios app given
+
+TODO:
+1.
+2.
+
