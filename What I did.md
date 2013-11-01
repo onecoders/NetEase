@@ -73,7 +73,15 @@ TODO:
 
 10/31
 1.deeply learnning jackson
-2.analysis the ios app given
+2.analysis the ios app given(still not given to me,delay to next Monday)
+
+TODO:
+1.ShareSDK deeply learnning
+2.AsyncHttpClient and UniversalImageLoader
+
+11/1
+1.
+2.
 
 TODO:
 1.
