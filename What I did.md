@@ -80,8 +80,8 @@ TODO:
 2.AsyncHttpClient and UniversalImageLoader
 
 11/1
-1.
-2.
+1.intergrate ShareSDK with the app
+2.asyncHttpClient learning with images cache
 
 TODO:
 1.
